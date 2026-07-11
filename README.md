@@ -1,65 +1,101 @@
-# Mahsa React Portfolio 🚀
+# 🚀 My Projects
 
-A modern responsive portfolio website built with React and Vite.
+## 1. Samsung Landing Page 📱
 
-## 👩‍💻 About
+A modern and responsive Samsung landing page created with a clean and attractive user interface.
 
-I am a Frontend Developer focused on creating modern web applications using React, JavaScript and CSS.
+### Features:
 
-Currently learning Backend Development to become a Full Stack Developer.
+* Responsive design
+* Modern hero section
+* Product presentation
+* Smooth animations
 
----
+### Technologies:
 
-## ✨ Features
-
-- Responsive Design
-- Dark / Light Mode
-- Hero Section with Profile Image
-- Typing Animation Effect
-- About Section
-- Skills Progress Bars
-- Projects Showcase
-- Modern UI Design
+HTML | CSS | JavaScript
 
 ---
 
-## 🛠 Technologies
+## 2. Starbucks Landing Page ☕
 
-- React
-- Vite
-- JavaScript
-- HTML5
-- CSS3
-- Git
-- GitHub
+A responsive Starbucks website design inspired by the original brand style.
 
+### Features:
 
----
+* Modern layout
+* Responsive navigation
+* Attractive UI sections
+* Interactive elements
 
-## 📂 Projects Included
+### Technologies:
 
-### IMDb Clone
-Movie application with API integration.
-
-### Weather App
-Real-time weather application.
-
-### Pet Shop
-Responsive online shop interface.
-
+HTML | CSS | JavaScript
 
 ---
 
-## 📸 Preview
+## 3. Car Spare Parts Website 🚗
 
-(Add screenshots here)
+A responsive website for a car spare parts store.
 
+### Features:
+
+* Product showcase
+* Modern cards
+* Slider sections
+* Responsive design
+
+### Technologies:
+
+React | Tailwind CSS | Swiper
 
 ---
 
-## 🚀 Installation
+## 4. Weather App 🌤️
 
-Clone repository:
+A weather application that displays real-time weather information.
 
-```bash
-git clone https://github.com/MahsaZargandeh/mahsa-react-portfolio.git
+### Features:
+
+* Search weather by city
+* API integration
+* Dynamic weather data
+* Responsive interface
+
+### Technologies:
+
+React | JavaScript | API | CSS
+
+---
+
+## 5. Pet Shop 🐾
+
+A modern online pet shop website.
+
+### Features:
+
+* Product sections
+* Responsive layout
+* User-friendly interface
+* Modern design
+
+### Technologies:
+
+React | JavaScript | CSS
+
+---
+
+## 6. IMDb Clone 🎬
+
+A movie application inspired by IMDb.
+
+### Features:
+
+* Movie listing
+* Movie details page
+* API integration
+* Responsive design
+
+### Technologies:
+
+React | React Router | API | CSS
