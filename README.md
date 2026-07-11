@@ -1,16 +1,65 @@
-# React + Vite
+# Mahsa React Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern responsive portfolio website built with React and Vite.
 
-Currently, two official plugins are available:
+## 👩‍💻 About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I am a Frontend Developer focused on creating modern web applications using React, JavaScript and CSS.
 
-## React Compiler
+Currently learning Backend Development to become a Full Stack Developer.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- Responsive Design
+- Dark / Light Mode
+- Hero Section with Profile Image
+- Typing Animation Effect
+- About Section
+- Skills Progress Bars
+- Projects Showcase
+- Modern UI Design
+
+---
+
+## 🛠 Technologies
+
+- React
+- Vite
+- JavaScript
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+
+---
+
+## 📂 Projects Included
+
+### IMDb Clone
+Movie application with API integration.
+
+### Weather App
+Real-time weather application.
+
+### Pet Shop
+Responsive online shop interface.
+
+
+---
+
+## 📸 Preview
+
+(Add screenshots here)
+
+
+---
+
+## 🚀 Installation
+
+Clone repository:
+
+```bash
+git clone https://github.com/MahsaZargandeh/mahsa-react-portfolio.git
