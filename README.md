@@ -1,16 +1,101 @@
-# React + Vite
+# 🚀 My Projects
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## 1. Samsung Landing Page 📱
 
-Currently, two official plugins are available:
+A modern and responsive Samsung landing page created with a clean and attractive user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### Features:
 
-## React Compiler
+* Responsive design
+* Modern hero section
+* Product presentation
+* Smooth animations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Technologies:
 
-## Expanding the Oxlint configuration
+HTML | CSS | JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 2. Starbucks Landing Page ☕
+
+A responsive Starbucks website design inspired by the original brand style.
+
+### Features:
+
+* Modern layout
+* Responsive navigation
+* Attractive UI sections
+* Interactive elements
+
+### Technologies:
+
+HTML | CSS | JavaScript
+
+---
+
+## 3. Car Spare Parts Website 🚗
+
+A responsive website for a car spare parts store.
+
+### Features:
+
+* Product showcase
+* Modern cards
+* Slider sections
+* Responsive design
+
+### Technologies:
+
+React | Tailwind CSS | Swiper
+
+---
+
+## 4. Weather App 🌤️
+
+A weather application that displays real-time weather information.
+
+### Features:
+
+* Search weather by city
+* API integration
+* Dynamic weather data
+* Responsive interface
+
+### Technologies:
+
+React | JavaScript | API | CSS
+
+---
+
+## 5. Pet Shop 🐾
+
+A modern online pet shop website.
+
+### Features:
+
+* Product sections
+* Responsive layout
+* User-friendly interface
+* Modern design
+
+### Technologies:
+
+React | JavaScript | CSS
+
+---
+
+## 6. IMDb Clone 🎬
+
+A movie application inspired by IMDb.
+
+### Features:
+
+* Movie listing
+* Movie details page
+* API integration
+* Responsive design
+
+### Technologies:
+
+React | React Router | API | CSS
