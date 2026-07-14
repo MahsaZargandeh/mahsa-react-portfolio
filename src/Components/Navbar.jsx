@@ -1,4 +1,7 @@
 import { useState } from "react";
+import logo from "../assets/images/logo.png";
+
+
 
 export default function Navbar() {
   const [dark, setDark] = useState(false);
@@ -10,7 +13,9 @@ export default function Navbar() {
 
   return (
     <nav className="navbar">
-      <h2>Mahsa Zargandeh</h2>
+      <div className="logo-box">
+        <img src="/logo.png" alt="MZ Logo" /> <h2>Mahsa Zargandeh</h2>
+      </div>
 
       <ul>
         <li>Home</li>
@@ -20,10 +25,7 @@ export default function Navbar() {
         <li>Contact</li>
       </ul>
 
-      <button onClick={toggleTheme}>
-        {dark ? "☀️" : "🌙"}
-      </button>
-
+      <button onClick={toggleTheme}>{dark ? "☀️" : "🌙"}</button>
     </nav>
   );
 }

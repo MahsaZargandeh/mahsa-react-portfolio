@@ -8,27 +8,21 @@ export default function Contact() {
       </p>
 
       <div className="contact-info">
-        <div className="contact-info">
-          <button
-            onClick={() =>
-              navigator.clipboard.writeText("m.zargandeh85@gmail.com")
-            }
-          >
-            📧 Copy Email
-          </button>
+        <a href="https://m.zargandeh85@gmail.com" target="_blank" rel="noreferrer">
+          📧 Email
+        </a>
 
-          <a
-            href="https://github.com/MahsaZargandeh"
-            target="_blank"
-            rel="noreferrer"
-          >
-            💻 GitHub
-          </a>
+        <a
+          href="https://github.com/MahsaZargandeh"
+          target="_blank"
+          rel="noreferrer"
+        >
+          💻 GitHub
+        </a>
 
-          <a href="لینک-لینکدین-تو" target="_blank" rel="noreferrer">
-            💼 LinkedIn
-          </a>
-        </div>
+        <a href="لینک-واقعی-LinkedIn-تو" target="_blank" rel="noreferrer">
+          🔗 LinkedIn
+        </a>
 
         <a href="/CV-German.pdf" download>
           🇩🇪 German CV
