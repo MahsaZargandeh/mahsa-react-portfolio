@@ -1,9 +1,10 @@
 import IMDBClone from "../assets/images/IMDB Clone.png";
 import Car from "../assets/images/Car.png";
+import Golestan from "../assets/images/Golestan.png";
+
 import Starbucks from "../assets/images/Starbucks.png";
 import Sumsung from "../assets/images/Sumsung.png";
 import WeatherApp from "../assets/images/Weather App.png";
-import Petshop from "../assets/images/Petshop.png";
 import { motion } from "framer-motion";
 
 const projects = [
@@ -35,10 +36,10 @@ const projects = [
   },
 
   {
-    title: "Pet Shop E-commerce",
-    image: Petshop,
-    description: "A responsive online petshop interface.",
-    tech: "React | Tailwind CSS",
+    title: "Golestan",
+    image: Golestan,
+    description: "A weather application built with React and API integration.",
+    tech: "React | API | CSS",
     github: "https://github.com/MahsaZargandeh",
     demo: "#",
   },
@@ -84,6 +85,18 @@ export default function Projects() {
             <p>{project.description}</p>
 
             <span>{project.tech}</span>
+
+            <div className="project-buttons">
+              <a href={project.github} target="_blank" rel="noreferrer">
+                GitHub
+              </a>
+
+              {project.demo && (
+                <a href={project.demo} target="_blank" rel="noreferrer">
+                  Live Demo
+                </a>
+              )}
+            </div>
           </motion.div>
         ))}
       </div>

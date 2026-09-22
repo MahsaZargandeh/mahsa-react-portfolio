@@ -31,7 +31,7 @@ export default function Footer() {
         </a>
 
 
-        <a href="mailto:ایمیل-تو">
+        <a href="mailto:m.zargandeh85@gmail.com">
           Email
         </a>
 

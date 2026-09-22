@@ -20,15 +20,15 @@ export default function Contact() {
           💻 GitHub
         </a>
 
-        <a href="لینک-واقعی-LinkedIn-تو" target="_blank" rel="noreferrer">
+        <a href="" target="_blank" rel="noreferrer">
           🔗 LinkedIn
         </a>
 
-        <a href="/CV-German.pdf" download>
+        <a href="/public/CV-GERMAN.pdf" download>
           🇩🇪 German CV
         </a>
 
-        <a href="/CV-English.pdf" download>
+        <a href="/public/CV-English.pdf" download>
           🇬🇧 English CV
         </a>
       </div>
